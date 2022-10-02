@@ -1,0 +1,29 @@
+
+.player-container{
+    background-color: red;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.flex-row{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+}
+
+img {
+    height: auto;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.own-line{
+    display: block;
+}
